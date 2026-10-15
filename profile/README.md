@@ -24,10 +24,15 @@ Expect direct communication, clear technical decisions, and ownership of the wor
 
 | Area | Technologies |
 | --- | --- |
-| Frontend | TypeScript, React, Next.js, Vue.js, Nuxt |
-| Mobile | React Native |
-| Backend | Node.js, NestJS, PHP, Laravel |
-| Data & integrations | PostgreSQL, Redis, REST APIs, LLM APIs |
+| Languages | JavaScript, TypeScript, Python, Go, PHP, Dart |
+| Web & interactive UI | Angular, React, Next.js, Vue.js, Nuxt, Tailwind CSS, Pixi.js |
+| Mobile | Flutter, React Native, Expo |
+| Backend | Node.js, NestJS, Laravel |
+| Data & messaging | PostgreSQL, MongoDB, Redis, Elasticsearch, RabbitMQ |
+| APIs & AI integrations | REST APIs, GraphQL, OpenAPI, WebSockets, Socket.IO, LLM APIs |
+| Cloud & delivery | AWS, Amazon S3, Docker, GitHub Actions, GitLab CI/CD |
+| CMS & commerce integrations | Strapi, Shopify |
+| Quality assurance | Playwright, JMeter |
 
 We choose the stack to fit the product and its existing systems.
 
